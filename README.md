@@ -3,8 +3,6 @@
 
 This is the clone of Instagram. You can share your images with your followers and engage with their posts too!
 
-This Project has been created solely for the assignment purpose of the Interview process for a Software Engineering Intern position.
-
 ### 🌐 Live Project - https://mern-instagram-assignment.herokuapp.com/
 
 ### Front-End - React + Bootstrap
